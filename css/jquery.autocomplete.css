@@ -1,0 +1,44 @@
+﻿.ac_results {
+	padding: 0px;
+	border:1px solid #84A2E8;
+	background-color: white;
+	overflow: hidden;
+	z-index: 99999;
+	/*width: 900px;*/
+	
+}
+
+.ac_results ul {
+	width: 100%;
+	list-style-position: outside;
+	list-style: none;
+	padding: 0;
+	margin: 0;
+	/*width: 900px;*/
+}
+
+.ac_results li {
+	margin: 0px;
+	padding: 2px 5px;
+	cursor: default;
+	font-size: 16px;
+	color:#333333;
+	font-family:Georgia, "Times New Roman", Times, serif;	
+	line-height: 16px;
+	overflow: hidden;
+	/*width: 900px;*/
+}
+
+.ac_loading {
+	background: white url('indicator.gif') right center no-repeat;
+}
+
+.ac_over {
+        padding: 2px 5px;
+	background-color: #BECEF3;
+        border-top:1px solid #84A2E8;
+	border-bottom:1px solid #84A2E8;
+        font-size: 16px;
+	color:#333333;
+	font-family:Georgia, "Times New Roman", Times, serif;	
+	line-height: 16px;}

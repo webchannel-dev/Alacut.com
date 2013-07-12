@@ -1,0 +1,6 @@
+oauth_token|s:42:"GzLeSha273dgV0c9h9FNQ61maHDeCFofwuBGOsRWtY";oauth_token_secret|s:42:"hN7ZRRBdk2RZ3ZaYAUABBtjgunmSV1OYEfEF3LT888";fb_532187950135694_state|s:32:"c54185392afc2f7837250f543613778b";access_token|a:8:{s:13:"<?xml version";s:145:""1.0" encoding="UTF-8"?>
+<hash>
+  <error>Invalid / expired Token</error>
+  <request>/oauth/access_token?oauth_consumer_key=ToHwdgoDLfE7uZrCKlrRAQ";s:15:"amp;oauth_nonce";s:32:"39d46ebe7728258a3f3f77798ddc174c";s:19:"amp;oauth_signature";s:28:"DVDx1vnQqUWHl1vUEg5X1+gi9ug=";s:26:"amp;oauth_signature_method";s:9:"HMAC-SHA1";s:19:"amp;oauth_timestamp";s:10:"1366211766";s:15:"amp;oauth_token";s:42:"GzLeSha273dgV0c9h9FNQ61maHDeCFofwuBGOsRWtY";s:18:"amp;oauth_verifier";s:41:"A1E1InlhmjIwlRYpYaqzmrAXXSWiFYEMDv8hkv784";s:17:"amp;oauth_version";s:22:"1.0</request>
+</hash>
+";}

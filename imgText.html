@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<script>
+$(document).ready(function () {
+	$("#ChengeInput").keypress(function(){
+		var canvas = document.getElementById("myCanvas");
+		canvas.innerHTML=$("#ChengeInput").val();
+		});
+	
+	});
+</script>
+
+</head>
+<body>
+
+<input id="ChengeInput" type="text" />
+<div id="myCanvas" style="background:url(../images/canvas.jpg); width: 640px; height: 360px;" ></div>
+
+</body>
+</html>
