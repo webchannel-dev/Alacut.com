@@ -1,8 +1,0 @@
-a:1:{i:0;a:24:{s:2:"id";i:63623427;s:5:"title";s:23:"James Blake [overgrown]";s:11:"description";s:239:"dir: NABIL<br />
-dancers: Lil Buck, Ringmaster Nugget, Taliban sheik<br />
-producer: Kathleen Heffernan <br />
-dop: Danny Hiele<br />
-editor: Isaac Hagy<br />
-post: Gloria VFX<br />
-color: Fergus @ The Mill<br />
-stylist: Rita Zebdi";s:3:"url";s:25:"http://vimeo.com/63623427";s:11:"upload_date";s:19:"2013-04-08 22:10:34";s:10:"mobile_url";s:27:"http://vimeo.com/m/63623427";s:15:"thumbnail_small";s:50:"http://b.vimeocdn.com/ts/433/969/433969111_100.jpg";s:16:"thumbnail_medium";s:50:"http://b.vimeocdn.com/ts/433/969/433969111_200.jpg";s:15:"thumbnail_large";s:50:"http://b.vimeocdn.com/ts/433/969/433969111_640.jpg";s:7:"user_id";i:666523;s:9:"user_name";s:14:"nabil elderkin";s:8:"user_url";s:30:"http://vimeo.com/nabilelderkin";s:19:"user_portrait_small";s:47:"http://b.vimeocdn.com/ps/503/729/5037296_30.jpg";s:20:"user_portrait_medium";s:47:"http://b.vimeocdn.com/ps/503/729/5037296_75.jpg";s:19:"user_portrait_large";s:48:"http://b.vimeocdn.com/ps/503/729/5037296_100.jpg";s:18:"user_portrait_huge";s:48:"http://b.vimeocdn.com/ps/503/729/5037296_300.jpg";s:21:"stats_number_of_likes";i:766;s:21:"stats_number_of_plays";i:20621;s:24:"stats_number_of_comments";i:29;s:8:"duration";i:269;s:5:"width";i:1920;s:6:"height";i:1080;s:4:"tags";s:55:"james blake, overgrown, nabil, music video, music video";s:13:"embed_privacy";s:8:"anywhere";}}

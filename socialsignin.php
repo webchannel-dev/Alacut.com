@@ -2,7 +2,7 @@
 if (array_key_exists("login", $_GET)) {
     $oauth_provider = $_GET['oauth_provider'];
     if ($oauth_provider == 'facebook') {
-        header("Location: socialsignin/facebook/login-facebook.php");
+        header("Location: script/socialsignin/facebook/login-facebook.php");
 		exit();
     }
 }

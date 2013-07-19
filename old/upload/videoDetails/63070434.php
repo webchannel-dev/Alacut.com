@@ -1,7 +1,0 @@
-a:1:{i:0;a:24:{s:2:"id";i:63070434;s:5:"title";s:14:"The Metalsmith";s:11:"description";s:389:"Facing blindness, metalsmith Andy Cooperman renews his commitment to making things worth seeing.<br />
-<br />
-View Andy's work at http://www.andycooperman.com<br />
-Music: Reflux by In The Nursery (licensed via Vimeo)<br />
-Produced by Visual Contact http://www.visualcontact.com<br />
-<br />
-BTS info about how this video was lit: http://www.danmccomb.com/posts/2800/the-metalsmith/";s:3:"url";s:25:"http://vimeo.com/63070434";s:11:"upload_date";s:19:"2013-04-01 02:17:36";s:10:"mobile_url";s:27:"http://vimeo.com/m/63070434";s:15:"thumbnail_small";s:50:"http://b.vimeocdn.com/ts/433/322/433322418_100.jpg";s:16:"thumbnail_medium";s:50:"http://b.vimeocdn.com/ts/433/322/433322418_200.jpg";s:15:"thumbnail_large";s:50:"http://b.vimeocdn.com/ts/433/322/433322418_640.jpg";s:7:"user_id";i:1533582;s:9:"user_name";s:10:"Dan McComb";s:8:"user_url";s:26:"http://vimeo.com/danmccomb";s:19:"user_portrait_small";s:47:"http://b.vimeocdn.com/ps/488/966/4889661_30.jpg";s:20:"user_portrait_medium";s:47:"http://b.vimeocdn.com/ps/488/966/4889661_75.jpg";s:19:"user_portrait_large";s:48:"http://b.vimeocdn.com/ps/488/966/4889661_100.jpg";s:18:"user_portrait_huge";s:48:"http://b.vimeocdn.com/ps/488/966/4889661_300.jpg";s:21:"stats_number_of_likes";i:790;s:21:"stats_number_of_plays";i:20809;s:24:"stats_number_of_comments";i:45;s:8:"duration";i:214;s:5:"width";i:1280;s:6:"height";i:720;s:4:"tags";s:0:"";s:13:"embed_privacy";s:8:"anywhere";}}

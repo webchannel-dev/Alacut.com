@@ -1,9 +1,0 @@
-a:1:{i:0;a:24:{s:2:"id";i:59338758;s:5:"title";s:10:"TimeLAX 01";s:11:"description";s:538:"TimeLAX is a time-lapse photography project that shows the Greater Los Angeles area from many angles.<br />
-<br />
-The project includes different types of photography such as panoramic, architectural and artistic. We have scouted, tested and selected more than 200 locations that will be presented in a series of videos. <br />
-<br />
-Photography by RalphGM - Edited by RandyFX<br />
-Music "Orchestral Inspiration" by Akashic Records - SaReGaMa<br />
-http://saregama-music.<br />
-<br />
-For more information, visit www.timelax.com";s:3:"url";s:25:"http://vimeo.com/59338758";s:11:"upload_date";s:19:"2013-02-10 08:08:18";s:10:"mobile_url";s:27:"http://vimeo.com/m/59338758";s:15:"thumbnail_small";s:50:"http://b.vimeocdn.com/ts/414/293/414293356_100.jpg";s:16:"thumbnail_medium";s:50:"http://b.vimeocdn.com/ts/414/293/414293356_200.jpg";s:15:"thumbnail_large";s:50:"http://b.vimeocdn.com/ts/414/293/414293356_640.jpg";s:7:"user_id";i:6805446;s:9:"user_name";s:12:"iVideoMaking";s:8:"user_url";s:29:"http://vimeo.com/ivideomaking";s:19:"user_portrait_small";s:47:"http://b.vimeocdn.com/ps/497/179/4971793_30.jpg";s:20:"user_portrait_medium";s:47:"http://b.vimeocdn.com/ps/497/179/4971793_75.jpg";s:19:"user_portrait_large";s:48:"http://b.vimeocdn.com/ps/497/179/4971793_100.jpg";s:18:"user_portrait_huge";s:48:"http://b.vimeocdn.com/ps/497/179/4971793_300.jpg";s:21:"stats_number_of_likes";i:2434;s:21:"stats_number_of_plays";i:110060;s:24:"stats_number_of_comments";i:111;s:8:"duration";i:270;s:5:"width";i:1920;s:6:"height";i:1080;s:4:"tags";s:117:"time-lapse, los angeles, DSLR, architecture, HD, california, photo, time lapse, night, transitions, long exposure, La";s:13:"embed_privacy";s:8:"anywhere";}}
