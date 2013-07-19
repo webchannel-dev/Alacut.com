@@ -1,0 +1,18 @@
+#lightbox_form{ font-family:Arial, Helvetica, sans-serif; color:#474747; font-size:12px; }
+.form_bg_top{ background:url(../images/form-bg_top.png) no-repeat top center; height:5px; }
+.form_bg{ background:#fff; border:1px solid #000; }
+.form_bg_btm{ background:url(../images/form-bg_btm.png) no-repeat bottom center; height:5px; }
+.padT{ padding-top:40px; }
+.form_header{ background:#007cc1; color:#fff; font-size:24px; line-height:40px; padding:0 20px; }
+.form_pad{ padding:20px; }
+.red{ color:#F00; }
+.marB{ margin-bottom:10px; }
+.level{ padding-bottom:4px; }
+.calander{ display:block; float:left; margin-left:10px; }
+.calander a{ outline:0; text-decoration:none; }
+.clear{ clear:both; }
+.form_sbmt{ padding:6px 0 12px 0; }
+
+.form_ui{ background:#f2f2f2; border:1px solid #d6d6d6; padding:4px; line-height:18px; font-family:"Courier New", Courier, monospace; float:left; }
+#lightbox_form td{ padding-bottom:10px; vertical-align:top; }
+#lightbox_form p{ margin:4px 0 20px 0; line-height:18px; }

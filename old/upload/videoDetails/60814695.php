@@ -1,0 +1,8 @@
+a:1:{i:0;a:24:{s:2:"id";i:60814695;s:5:"title";s:12:"15,000 Volts";s:11:"description";s:168:"HIgh voltage wood erosion.<br />
+<br />
+<br />
+<br />
+Soundtrack: Aire De Zamba by Agustín Barrios Mangoré<br />
+<br />
+<br />
+https://twitter.com/Melanie_Hoff";s:3:"url";s:25:"http://vimeo.com/60814695";s:11:"upload_date";s:19:"2013-03-01 03:02:09";s:10:"mobile_url";s:27:"http://vimeo.com/m/60814695";s:15:"thumbnail_small";s:50:"http://b.vimeocdn.com/ts/423/598/423598554_100.jpg";s:16:"thumbnail_medium";s:50:"http://b.vimeocdn.com/ts/423/598/423598554_200.jpg";s:15:"thumbnail_large";s:50:"http://b.vimeocdn.com/ts/423/598/423598554_640.jpg";s:7:"user_id";i:6979236;s:9:"user_name";s:12:"Melanie Hoff";s:8:"user_url";s:28:"http://vimeo.com/melaniehoff";s:19:"user_portrait_small";s:47:"http://b.vimeocdn.com/ps/411/941/4119418_30.jpg";s:20:"user_portrait_medium";s:47:"http://b.vimeocdn.com/ps/411/941/4119418_75.jpg";s:19:"user_portrait_large";s:48:"http://b.vimeocdn.com/ps/411/941/4119418_100.jpg";s:18:"user_portrait_huge";s:48:"http://b.vimeocdn.com/ps/411/941/4119418_300.jpg";s:21:"stats_number_of_likes";i:1453;s:21:"stats_number_of_plays";i:235499;s:24:"stats_number_of_comments";i:40;s:8:"duration";i:152;s:5:"width";i:1280;s:6:"height";i:720;s:4:"tags";s:192:"electricity, growth, fractals, time lapse, visualization, electrode, trees, experiment, generative, art, rhizome, process, burning, multiplicity, plywood, maple, arborescent structures, system";s:13:"embed_privacy";s:8:"anywhere";}}
